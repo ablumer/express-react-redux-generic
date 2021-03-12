@@ -1,0 +1,126 @@
+{
+  "AREAS": [
+    {
+      "ID": "3",
+      "AREANAME": "AREA ONE",
+      "NORMALIZED": "area-one",
+      "ROOMS": [
+        {
+          "ID": "997",
+          "ROOMNAME": "Room One",
+          "NORMALIZED": "room-one",
+          "ROOM": [
+            {
+              "ROOMNAME": "Room One",
+              "INFOURL": "",
+              "MAPLINK": "",
+              "ACCESSABLE": "",
+              "FACILITIES": [
+                "Fixed PC",
+                "Fixed Data Projector",
+                "Fixed DVD Player"
+              ],
+              "RATES": [
+                {
+                  "RATETYPE": "Full Day",
+                  "RATEAMOUNT": "300"
+                },
+                {
+                  "RATETYPE": "Half Day",
+                  "RATEAMOUNT": "195"
+                }
+              ],
+              "CAPACITIES": [
+                {
+                  "LAYOUT": "Theatre",
+                  "CAPACITY": "100"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "33",
+          "ROOMNAME": "Room Two",
+          "NORMALIZED": "room-two",
+          "ROOM": [
+            {
+              "ROOMNAME": "Room Two",
+              "INFOURL": "",
+              "MAPLINK": "52.928746,-0.837625",
+              "ACCESSABLE": "https://www.abc.com/venues/room-2",
+              "FACILITIES": [
+                "WiFi Available",
+                "Fixed PC",
+                "Fixed Data Projector",
+                "Fixed DVD Player"
+              ],
+              "RATES": [
+                {
+                  "RATETYPE": "Full Day",
+                  "RATEAMOUNT": "300"
+                },
+                {
+                  "RATETYPE": "Half Day",
+                  "RATEAMOUNT": "195"
+                }
+              ],
+              "CAPACITIES": [
+                {
+                  "LAYOUT": "Boardroom",
+                  "CAPACITY": "20"
+                },
+                {
+                  "LAYOUT": "Classroom",
+                  "CAPACITY": "24"
+                },
+                {
+                  "LAYOUT": "Exam",
+                  "CAPACITY": "12"
+                },
+                {
+                  "LAYOUT": "Theatre",
+                  "CAPACITY": "24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "ID": "7",
+          "ROOMNAME": "Room Three",
+          "NORMALIZED": "room-three",
+          "ROOM": [
+            {
+              "ROOMNAME": "Room Three",
+              "INFOURL": "",
+              "MAPLINK": "",
+              "ACCESSABLE": "",
+              "FACILITIES": [
+                "Fixed PC",
+                "Fixed Data Projector",
+                "Fixed DVD Player"
+              ],
+              "RATES": [
+                {
+                  "RATETYPE": "Full Day",
+                  "RATEAMOUNT": "300"
+                },
+                {
+                  "RATETYPE": "Half Day",
+                  "RATEAMOUNT": "195"
+                }
+              ],
+              "CAPACITIES": [
+                {
+                  "LAYOUT": "Theatre",
+                  "CAPACITY": "100"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

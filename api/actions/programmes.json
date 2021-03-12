@@ -1,0 +1,49 @@
+{
+  "programme_list": [
+    {
+      "prg_code": "GCGGLOGY_A",
+      "prg_name": "aaaaaaa Geology (Graduate Certificate)",
+      "prg_depc": "SCES",
+      "prg_ppst": "PG",
+      "ppg_dpt2": null,
+      "ppg_dpt3": null,
+      "ppg_ayrc": "2019/0",
+      "ppg_stat": "FAP",
+      "ppg_tatc": null,
+      "ppg_kisc": null,
+      "prg_cusu": "https://abc.xyz.com/abc/xyz/f?p=2405:107:0::NO:107:P107_DPT_INTC:DEP-sces_GCGGLOGY_C",
+      "prg_ucrs": null,
+      "prg_crsc": "GCGGLOGY_C"
+    },
+    {
+      "prg_code": "GCGGLOGY_B",
+      "prg_name": "bbbbbb Geology (Graduate Certificate)",
+      "prg_depc": "SCES",
+      "prg_ppst": "PG",
+      "ppg_dpt2": null,
+      "ppg_dpt3": null,
+      "ppg_ayrc": "2019/0",
+      "ppg_stat": "FAP",
+      "ppg_tatc": null,
+      "ppg_kisc": null,
+      "prg_cusu": "https://abc.xyz.com/abc/xyz/f?p=2405:107:0::NO:107:P107_DPT_INTC:DEP-sces_GCGGLOGY_C",
+      "prg_ucrs": null,
+      "prg_crsc": "GCGGLOGY_B"
+    },
+    {
+      "prg_code": "GCGGLOGY_C",
+      "prg_name": "ccccccccccccc Geology (Graduate Certificate)",
+      "prg_depc": "SCES",
+      "prg_ppst": "PG",
+      "ppg_dpt2": null,
+      "ppg_dpt3": null,
+      "ppg_ayrc": "2019/0",
+      "ppg_stat": "FAP",
+      "ppg_tatc": null,
+      "ppg_kisc": null,
+      "prg_cusu": "https://abc.xyz.com/abc/xyz/f?p=2405:107:0::NO:107:P107_DPT_INTC:DEP-sces_GCGGLOGY_C",
+      "prg_ucrs": null,
+      "prg_crsc": "GCGGLOGY_C"
+    }
+  ]
+}
